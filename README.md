@@ -15,8 +15,8 @@ https://www.figma.com/design/o274ThLoeLVc0F9t9CuIKg/food-app-design
 - Food Categories
 - Cart & Checkout
 - ## 📸 Screenshots
-![main Screen](main screen.png)
-![splash Screen](frame 5.png)
+![main Screen]( mainscreen.png)
+![splash Screen](Frame5.png)
 
 
 
